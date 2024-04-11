@@ -2,11 +2,11 @@
 
 1)Objects
 
-1)Through product pathing analysis and build product conversion funnels it helps to understand how each product contributes to business and allows monitoring the impact of adding a new product to product portfolio
+1)Through product pathing analysis and 𝐛𝐮𝐢𝐥𝐝 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 𝐜𝐨𝐧𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐟𝐮𝐧𝐧𝐞𝐥𝐬 it helps to understand how each product contributes to business and 𝐚𝐥𝐥𝐨𝐰𝐬 𝐦𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐢𝐦𝐩𝐚𝐜𝐭 𝐨𝐟 𝐚𝐝𝐝𝐢𝐧𝐠 𝐚 𝐧𝐞𝐰 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 to product portfolio
 
-2)through cross-sell analysis helps understanding which products are often purchased together; and the conversion rate together with overall revenue impact
+2)through 𝐜𝐫𝐨𝐬𝐬-𝐬𝐞𝐥𝐥 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬 helps understanding which products are often purchased together; and the 𝐜𝐨𝐧𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐫𝐚𝐭𝐞 together with overall revenue impact
 
-3)through product refund analysis to monitor product quality and keep a pulse on overall business health 
+3)through 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 𝐫𝐞𝐟𝐮𝐧𝐝 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬 to monitor product quality and keep a pulse on overall business health 
 
 
 2)Dataset:
